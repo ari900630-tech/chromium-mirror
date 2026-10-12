@@ -1,0 +1,10 @@
+{
+  "name": "Chrome Mirror",
+  "short_name": "Chrome",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#202124",
+  "theme_color": "#202124",
+  "lang": "he",
+  "dir": "rtl"
+}
